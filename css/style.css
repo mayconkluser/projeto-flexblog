@@ -383,7 +383,7 @@ img {
 .footer {
   height: 200px;
   display: flex;
-  align-content: center;
+  align-items: center;
   background: #2c70ff;
 }
 
